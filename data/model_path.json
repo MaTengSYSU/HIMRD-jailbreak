@@ -1,0 +1,29 @@
+{
+    "llava-v1.5-7b": {
+        "model_path": "path of llava-v1.5-7b"
+        },
+    "llava-v1.6-mistral-7b-hf": {
+        "model_path": "path of llava-v1.6-mistral-7b-hf"
+        },
+    "glm-4v-9b": {
+        "model_path": "path of glm-4v-9b"
+        },
+    "deepseek-vl-7b-chat":{
+        "model_path": "path of deepseek-vl-7b-chat"
+    },
+    "Qwen-VL-Chat":{
+        "model_path": "path of Qwen-VL-Chat"
+    },
+    "Yi-VL-34B":{
+        "model_path": "path of Yi-VL-34B"
+    },
+    "MiniGPT-4":{
+        "model_path": "minigpt4_eval.yaml"
+    },
+    "harmbench": {                                           
+        "model_path": "path of HarmBench-Llama-2-13b-cls"
+    },
+    "stable-diffusion-3-medium":{
+        "model_path": "path of sd3_medium_incl_clips.safetensors"
+    }
+}
