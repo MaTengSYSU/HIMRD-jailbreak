@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗡️ HIMRD: Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models
+# 🗡️ HIMRD: Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models ICCV 2025
 
 </div>
 
